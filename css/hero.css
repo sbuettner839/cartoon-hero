@@ -5,6 +5,7 @@ body{
     line-height: 20px;
 }
 
+/* header styles */
 header{
     background-color: #d14635;
     text-align: center;
@@ -26,7 +27,13 @@ header img{
     border: 5px solid white;
 }
 
+h2{
+    font-size: 30px;
+    color: #e70c19;
+    margin: 40px 0 10px;
+}
 
+/* main styles */
 main{
     max-width: 800px;
     margin: 0 auto;
@@ -37,12 +44,7 @@ main img{
     max-width: 100%;
 }
 
-h2{
-    font-size: 30px;
-    color: #e70c19;
-    margin: 40px 0 10px;
-}
-
+/* anchors and footer styles */
 a{
     color: #e70c19;
 }
